@@ -25,4 +25,4 @@ The Application Can Do:
 	3-manage the employment process either by rejection or acceptance and inform the Employee
 	4-summarize the employee status for number of views of his profile
 	5- inform the employee by jobs that match his skills
-	6- handle the employer requests ccording to the required attributes (Programming 			language, City, Experience level)
+	6- handle the employer requests ccording to the required attributes (Programming language, City, Experience level)
